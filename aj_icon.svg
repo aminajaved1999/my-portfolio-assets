@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
   <circle cx="60" cy="60" r="60" fill="#00ffff"></circle>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="40" font-family="Arial" fill="#0a0a0a">AJ</text>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="55" font-family="Arial" font-weight="700" fill="#0a0a0a">
+    AJ
+  </text>
 </svg>
