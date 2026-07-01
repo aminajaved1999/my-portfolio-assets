@@ -1,0 +1,147 @@
+{
+  "version": "2",
+  "design": "Upwork-optimized light theme portfolio covers",
+  "generated": "2026-07-01",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Zephyr",
+      "filename": "01-zephyr.png",
+      "description": "IoT Smart AC Platform with ASP.NET, MQTT, and JWT authentication for remote HVAC control and scheduling.",
+      "tags": ["ASP.NET", "MQTT", "JWT", "IoT", "C#"]
+    },
+    {
+      "id": 2,
+      "title": "DevPort",
+      "filename": "02-devport.png",
+      "description": "Cloud portfolio web app built with Blazor, EF Core, Azure deployment, and GitHub Actions CI/CD.",
+      "tags": ["Blazor", "Azure", "CI/CD", "ASP.NET Core", "EF Core"]
+    },
+    {
+      "id": 3,
+      "title": "EventEase",
+      "filename": "03-eventease.png",
+      "description": "Blazor WebAssembly event management app for browsing events, registration, and attendance tracking.",
+      "tags": ["Blazor", "WebAssembly", ".NET 8", "C#"]
+    },
+    {
+      "id": 4,
+      "title": "SecondChance",
+      "filename": "04-secondchance.png",
+      "description": "Item exchange platform with Node.js/MongoDB backend, JWT auth, Docker, and Kubernetes deployment.",
+      "tags": ["Node.js", "MongoDB", "Docker", "Kubernetes", "JWT"]
+    },
+    {
+      "id": 5,
+      "title": "Little Lemon",
+      "filename": "05-little-lemon.png",
+      "description": "Full-stack restaurant reservation system with Django REST Framework backend and React frontend.",
+      "tags": ["Django", "React", "MySQL", "DRF"]
+    },
+    {
+      "id": 6,
+      "title": "GeoHealth Tracker",
+      "filename": "06-geohealth-tracker.png",
+      "description": "Interactive health facilities map dashboard using OpenStreetMap Overpass API and Leaflet.js.",
+      "tags": ["Leaflet.js", "OpenStreetMap", "Vanilla JS", "Tailwind CSS"]
+    },
+    {
+      "id": 7,
+      "title": "E-commerce DevOps PoC",
+      "filename": "07-ecommerce-devops.png",
+      "description": "Modern Django e-commerce proof-of-concept with Docker containerization and GitHub Actions CI/CD pipeline.",
+      "tags": ["Django", "Docker", "GitHub Actions", "CI/CD"]
+    },
+    {
+      "id": 8,
+      "title": "WIP Analysis Tool",
+      "filename": "08-wip-analysis-tool.png",
+      "description": "WinForms desktop app automating Work-in-Progress calculations from Excel data using EPPlus and SQL Server.",
+      "tags": ["WinForms", "EPPlus", "SQL Server", "C#"]
+    },
+    {
+      "id": 9,
+      "title": "Tracket",
+      "filename": "09-tracket.png",
+      "description": "Customer support ticketing system with ASP.NET Core, EF Core, JWT RBAC, and Firebase push notifications.",
+      "tags": ["ASP.NET Core", "JWT", "Firebase", "EF Core"]
+    },
+    {
+      "id": 10,
+      "title": "TruckDestino",
+      "filename": "10-truckdestino.png",
+      "description": "Enterprise fleet management platform modernized from Silverlight/SOAP to RESTful APIs with full documentation.",
+      "tags": ["REST APIs", "C#", ".NET", "Legacy Migration"]
+    },
+    {
+      "id": 11,
+      "title": "QuickBooks IIF Generator",
+      "filename": "11-quickbooks-iif.png",
+      "description": "WinForms finance automation tool converting SQL Server transactions into QuickBooks IIF import files.",
+      "tags": ["WinForms", "QuickBooks", "SQL Server", "EPPlus"]
+    },
+    {
+      "id": 12,
+      "title": "GPMS",
+      "filename": "12-gpms.png",
+      "description": "Garment Production & Packing Management System with WCF service layer and Entity Framework.",
+      "tags": ["WCF", "Entity Framework", "C#", ".NET Framework"]
+    },
+    {
+      "id": 13,
+      "title": "MEZBAN",
+      "filename": "13-mezban.png",
+      "description": "MEAN stack travel accommodation platform with Google Places API for location-based recommendations.",
+      "tags": ["MEAN Stack", "Google Places API", "MongoDB", "Angular"]
+    },
+    {
+      "id": 14,
+      "title": "Tracko IS",
+      "filename": "14-tracko-is.png",
+      "description": "Vehicle Tracker Invoicing System with ADO.NET REST APIs and WinForms SIM lifecycle management modules.",
+      "tags": ["ADO.NET", "WinForms", "SQL Server", "C#"]
+    },
+    {
+      "id": 15,
+      "title": "Denim Labels Utility",
+      "filename": "15-denim-labels.png",
+      "description": "WinForms desktop tool automating denim label generation from Excel with PDF, Word, and Excel exports.",
+      "tags": ["WinForms", "EPPlus", "Crystal Reports", "C#"]
+    },
+    {
+      "id": 16,
+      "title": "Warehouse Management System",
+      "filename": "16-warehouse-management.png",
+      "description": "WMS backend with EF Code-First approach, RESTful APIs optimized for high-throughput warehouse operations.",
+      "tags": ["EF Code-First", "REST APIs", "SQL Server", ".NET"]
+    },
+    {
+      "id": 17,
+      "title": "Terminal Management System",
+      "filename": "17-terminal-management.png",
+      "description": "Enterprise .NET Framework desktop application maintenance, legacy bug fixes, and performance optimization.",
+      "tags": [".NET Framework", "WinForms", "C#", "Legacy Optimization"]
+    },
+    {
+      "id": 18,
+      "title": "MMS",
+      "filename": "18-mms.png",
+      "description": "Meeting room booking system with ASP.NET Web API, WhatsApp notifications, and QR code gate access.",
+      "tags": ["ASP.NET Web API", "WhatsApp API", "QR Code", "Entity Framework"]
+    },
+    {
+      "id": 19,
+      "title": "Viva Scheduler",
+      "filename": "19-viva-scheduler.png",
+      "description": "University viva scheduling web application assigning students to nearest campus viva centers.",
+      "tags": ["PHP", "MySQL", "Bootstrap", "JavaScript"]
+    },
+    {
+      "id": 20,
+      "title": "COVID-19 Management System",
+      "filename": "20-covid19.png",
+      "description": "Desktop application tracking COVID patients, hospitals, doctors, and wards with case statistics.",
+      "tags": ["C#", "MySQL", "WinForms", "Desktop App"]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "author": "Amina Javed",
+  "generated": "2026-07-01",
+  "format": "16:9 landscape PNG",
+  "purpose": "Freelancing platform portfolio thumbnails (Upwork, Fiverr, etc.)",
+  "thumbnails": [
+    {
+      "filename": "01-zephyr-iot-platform.png",
+      "title": "Zephyr — IoT Platform",
+      "description": "Enterprise IoT platform managing smart AC systems with ASP.NET Web API, JWT RBAC, and MQTT integration for real-time remote control and automated scheduling."
+    },
+    {
+      "filename": "02-devport-cloud-portfolio.png",
+      "title": "DevPort — Cloud Portfolio App",
+      "description": "Cloud web app showcasing user portfolios using ASP.NET Core, Blazor, EF Core, ASP.NET Identity, RESTful APIs, caching, and CI/CD pipeline deploying to Azure."
+    },
+    {
+      "filename": "03-eventease.png",
+      "title": "EventEase",
+      "description": "Blazor WebAssembly event management app for browsing corporate and social events, registering with validated forms, and tracking attendance."
+    },
+    {
+      "filename": "04-secondchance-exchange.png",
+      "title": "SecondChance — Exchange Platform",
+      "description": "Node.js/MongoDB backend enabling users to exchange household items with secure RESTful APIs, JWT auth, Docker, Kubernetes, and IBM Cloud CI/CD."
+    },
+    {
+      "filename": "05-little-lemon-reservation.png",
+      "title": "Little Lemon — Reservation App",
+      "description": "Full-stack restaurant reservation system with Django REST Framework backend, MySQL, Djoser auth, and React frontend with React Router."
+    },
+    {
+      "filename": "06-geohealth-tracker.png",
+      "title": "GeoHealth Tracker",
+      "description": "Single-page dashboard for exploring health facilities using live OpenStreetMap Overpass API data with Leaflet.js marker clustering and dynamic filtering."
+    },
+    {
+      "filename": "07-ecommerce-devops-poc.png",
+      "title": "E-commerce DevOps PoC",
+      "description": "Modern Django MVT e-commerce PoC with full CI/CD pipeline via GitHub Actions and Docker, with automated testing and zero-downtime migration to Render."
+    },
+    {
+      "filename": "08-wip-analysis-tool.png",
+      "title": "WIP Analysis Tool",
+      "description": "C# WinForms application using EPPlus and SQL Server to import Excel data, automate WIP calculations with data validation, and export accurate reports."
+    },
+    {
+      "filename": "09-tracket-ticketing.png",
+      "title": "Tracket — Ticketing System",
+      "description": "Ticketing management system using ASP.NET Core and EF Code-First with RBAC, JWT authentication, and Firebase push notifications for field service workflows."
+    },
+    {
+      "filename": "10-truckdestino-fleet.png",
+      "title": "TruckDestino — Fleet Management",
+      "description": "Modernized legacy Fleet Management System from Silverlight/SOAP to RESTful APIs with full API documentation and data consistency enforcement."
+    },
+    {
+      "filename": "11-quickbooks-iif-generator.png",
+      "title": "QuickBooks IIF Generator",
+      "description": "C# WinForms application automating conversion of SQL Server transactional data into QuickBooks IIF import files with Excel validation and duplicate detection."
+    },
+    {
+      "filename": "12-gpms-garment-production.png",
+      "title": "GPMS — Garment Production",
+      "description": "Garment Production & Packing Management System with WCF Service Layer, Entity Framework, and complex purchase order hierarchies for styles, colors, and sizes."
+    },
+    {
+      "filename": "13-mezban-travel-platform.png",
+      "title": "MEZBAN — Travel Platform (FYP)",
+      "description": "Final Year Project MEAN stack accommodation platform with Google Places API for location-based recommendations and Stripe payment integration."
+    },
+    {
+      "filename": "14-tracko-is-vehicle-tracker.png",
+      "title": "Tracko IS — Vehicle Tracker",
+      "description": "Vehicle Tracker Invoicing System with Database-First RESTful APIs via ADO.NET, WinForms automation modules, and SIM lifecycle management."
+    },
+    {
+      "filename": "15-denim-labels-utility.png",
+      "title": "Denim Labels Utility",
+      "description": "WinForms desktop application using EPPlus and Crystal Reports to automate item-level denim label generation from Excel with multi-format PDF, Word, and Excel exports."
+    },
+    {
+      "filename": "16-warehouse-management-system.png",
+      "title": "Warehouse Management System",
+      "description": "Backend for a WMS using EF Code-First approach in .NET with RESTful APIs optimized for high-throughput warehouse operations and seamless data integration."
+    },
+    {
+      "filename": "17-terminal-management-system.png",
+      "title": "Terminal Management System",
+      "description": "Maintenance and optimization of a critical .NET Framework desktop application focused on resolving legacy bugs, code optimization, and improving stability."
+    },
+    {
+      "filename": "18-mms-meeting-room-system.png",
+      "title": "MMS — Meeting Room & Access Management",
+      "description": "Meeting room booking system backend using ASP.NET Web API with multi-channel SMTP and WhatsApp notifications, QR code gate access validation, and N-Tier architecture."
+    },
+    {
+      "filename": "19-viva-scheduler.png",
+      "title": "Viva Scheduler",
+      "description": "University web application to schedule student vivas and assign the nearest FAST NUCES campus as the viva center using PHP, MySQL, and Bootstrap."
+    },
+    {
+      "filename": "20-covid19-management-system.png",
+      "title": "COVID-19 Management System",
+      "description": "Desktop application tracking COVID patients, hospitals, doctors, and wards with active, recovered, and death case statistics using C# and MySQL."
+    }
+  ]
+}
